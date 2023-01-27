@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CBBLGW>
+    <Header>
+        <SERVICEID>STATEMENT_PAGINATION</SERVICEID>
+        <UUID>NAZ_FIUUID114</UUID>
+        <STATUS>SUCCESS</STATUS>
+        <CODE>00000</CODE>
+        <DESC>Operation Successful</DESC>
+    </Header>
+    <Body>
+        <TRANDetails>
+            <SERIAL>1</SERIAL>
+            <TRAN_ID></TRAN_ID>
+            <TRAN_DATE>23-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>23-Dec-2022</VALUE_DATE>
+            <TYPE></TYPE>
+            <AMOUNT>4518.7</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>Balance Brought Forward</PARTICULAR>
+            <BALANCE>4518.7</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>2</SERIAL>
+            <TRAN_ID>  S957150</TRAN_ID>
+            <TRAN_DATE>23-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>23-Dec-2022</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>4000</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>Cash Withdrawal from CMP Dampara Police Lines ATM</PARTICULAR>
+            <BALANCE>518.7</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>3</SERIAL>
+            <TRAN_ID>  TXN9540</TRAN_ID>
+            <TRAN_DATE>27-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>27-Dec-2022</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>300</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>BKASH FROM CBBL 01303195746</PARTICULAR>
+            <BALANCE>218.7</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>4</SERIAL>
+            <TRAN_ID>   S87730</TRAN_ID>
+            <TRAN_DATE>31-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>31-Dec-2022</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>150</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>EXCISE DUTY-2022</PARTICULAR>
+            <BALANCE>68.7</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>5</SERIAL>
+            <TRAN_ID>   S99613</TRAN_ID>
+            <TRAN_DATE>31-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>31-Dec-2022</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>.03</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>0010173416201:WTax.Pd:01-07-2022to 31-12-2022</PARTICULAR>
+            <BALANCE>68.67</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>6</SERIAL>
+            <TRAN_ID>   S99613</TRAN_ID>
+            <TRAN_DATE>31-Dec-2022</TRAN_DATE>
+            <VALUE_DATE>31-Dec-2022</VALUE_DATE>
+            <TYPE>C</TYPE>
+            <AMOUNT>.19</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>0010173416201:Int.Pd:01-07-2022 to 31-12-2022</PARTICULAR>
+            <BALANCE>68.86</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>7</SERIAL>
+            <TRAN_ID>  S376814</TRAN_ID>
+            <TRAN_DATE>02-Jan-2023</TRAN_DATE>
+            <VALUE_DATE>02-Jan-2023</VALUE_DATE>
+            <TYPE>C</TYPE>
+            <AMOUNT>18740</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>EFTN-IN Bangladesh Bank FINANCE DIVISION</PARTICULAR>
+            <BALANCE>18808.86</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>8</SERIAL>
+            <TRAN_ID>  S546045</TRAN_ID>
+            <TRAN_DATE>03-Jan-2023</TRAN_DATE>
+            <VALUE_DATE>03-Jan-2023</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>10000</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>Cash Withdrawal from CMP Dampara Police Lines ATM</PARTICULAR>
+            <BALANCE>8808.86</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>9</SERIAL>
+            <TRAN_ID> TXN53068</TRAN_ID>
+            <TRAN_DATE>03-Jan-2023</TRAN_DATE>
+            <VALUE_DATE>03-Jan-2023</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>200</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>BKASH FROM CBBL 01303195746</PARTICULAR>
+            <BALANCE>8608.86</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>10</SERIAL>
+            <TRAN_ID> TXN57781</TRAN_ID>
+            <TRAN_DATE>03-Jan-2023</TRAN_DATE>
+            <VALUE_DATE>03-Jan-2023</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>100</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>BKASH FROM CBBL 01303195746</PARTICULAR>
+            <BALANCE>8508.86</BALANCE>
+        </TRANDetails>
+        <TRANDetails>
+            <SERIAL>11</SERIAL>
+            <TRAN_ID>  S607735</TRAN_ID>
+            <TRAN_DATE>04-Jan-2023</TRAN_DATE>
+            <VALUE_DATE>04-Jan-2023</VALUE_DATE>
+            <TYPE>D</TYPE>
+            <AMOUNT>8500</AMOUNT>
+            <CURRENCY>BDT</CURRENCY>
+            <PARTICULAR>Cash Withdrawal from CMP Dampara Police Lines ATM</PARTICULAR>
+            <BALANCE>8.8600000000006</BALANCE>
+        </TRANDetails>
+    </Body>
+</CBBLGW>
