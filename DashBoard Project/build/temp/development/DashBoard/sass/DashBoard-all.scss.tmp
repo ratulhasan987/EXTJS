@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'DashBoard' );
-$image-search-path: 'C:/Users/ratul.hasan/Desktop/DashBoardProject/build/development/DashBoard/classic/resources';
+$image-search-path: 'G:/Coding/naztech-ExtJs-Projects/DashBoard Project/build/development/DashBoard/classic/resources';
 $theme-name:  dynamic( 'theme-triton' );
 $include-dashboard-application: dynamic(true);;
 $include-dashboard-store-personnel: dynamic(true);;

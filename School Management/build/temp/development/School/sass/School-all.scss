@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'School' );
-$image-search-path: 'C:/Users/ratul.hasan/Desktop/ProjectExtJS/build/development/School/classic/resources';
+$image-search-path: 'G:/Coding/naztech-ExtJs-Projects/School Management/build/development/School/classic/resources';
 $theme-name:  dynamic( 'theme-triton' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
@@ -932,6 +932,7 @@ $include-school-view-main-studentlistcontroller: dynamic(true);;
 $include-school-view-main-studentlistpaging: dynamic(true);;
 $include-school-view-main-studentviewmodel: dynamic(true);;
 $include-school-view-main-teacher: dynamic(true);;
+$include-school-view-main-window: dynamic(true);;
 $output-paths: ("path": "../../classic/resources", "shared": "../../resources");
 
 /* ======================== ETC ======================== */

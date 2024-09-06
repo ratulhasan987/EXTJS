@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\Users\ratul.hasan\Desktop\DashBoardProject\app.js
+// @require G:\Coding\naztech-ExtJs-Projects\DashBoard Project\app.js

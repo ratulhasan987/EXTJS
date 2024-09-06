@@ -75,7 +75,9 @@ Ext.define('Trail.view.main.Main', {
         }
     },
 
-    items: [{
+    items: [
+        
+        {
         title: 'Home',
         iconCls: 'fa-home',
         // The following grid shares a store with the classic version's grid as well!
@@ -86,29 +88,14 @@ Ext.define('Trail.view.main.Main', {
      
         }]
     }, 
-    
-
-    // {
-    //     title: 'Users',
-    //     iconCls: 'fa-user',
-    //     bind: {
-    //         html: '{loremIpsum}'
-    //     }
-    // },
-    
-    // {
-    //     title: 'Groups',
-    //     iconCls: 'fa-users',
-    //     bind: {
-    //         html: '{loremIpsum}'
-    //     }
-    // }, {
-    //     title: 'Settings',
-    //     iconCls: 'fa-cog',
-    //     bind: {
-    //         html: '{loremIpsum}'
-    //     }
-    // }
-
+    {
+        title: 'Json',
+        iconCls: 'fa-user',
+        // The following grid shares a store with the classic version's grid as well!
+        items: [{
+            xtype: 'http://localhost:1841',
+     
+        }]
+    }, 
 ]
 });

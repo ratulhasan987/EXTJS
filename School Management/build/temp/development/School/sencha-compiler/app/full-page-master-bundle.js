@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\Users\ratul.hasan\Desktop\ProjectExtJS\app.js
+// @require G:\Coding\naztech-ExtJs-Projects\School Management\app.js
